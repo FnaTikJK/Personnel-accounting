@@ -1,0 +1,25 @@
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\Personnel accounting.exe
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\Personnel accounting.deps.json
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\Personnel accounting.runtimeconfig.json
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\Personnel accounting.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\Personnel accounting.pdb
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.AssemblyInfo.cs
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\refint\Personnel accounting.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.pdb
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.genruntimeconfig.cache
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\ref\Personnel accounting.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel_accounting.MainForm.resources
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel accounting.csproj.CopyComplete
+C:\Users\Антон\source\repos\c#\Personnel accounting\Personnel accounting\obj\Debug\net6.0-windows\Personnel_accounting.RedactorForm.resources
